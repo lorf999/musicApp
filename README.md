@@ -28,4 +28,4 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 ## 截图
-![cat.png](https://github.com/lorf999/musicApp/blob/master/sree/denglu.png)
+<img src='https://github.com/lorf999/musicApp/blob/master/sree/denglu.png' width='200' alt='图片错误'>
