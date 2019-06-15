@@ -28,4 +28,4 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 ## 截图
-![cat.png](../src/assets/allplayer.jpg)
+![cat.png](https://github.com/lorf999/musicApp/blob/master/sree/denglu.png)
