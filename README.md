@@ -27,6 +27,10 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+### 说明：
+```
+api可能存在不稳定的情况！！！
+```
 ## 截图
 #### 注册页面
 <img src='https://github.com/lorf999/musicApp/blob/master/sree/zhuche.png' width='200' alt='zhuche'>
